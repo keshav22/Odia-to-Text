@@ -53,7 +53,7 @@ audio.terminate()
 
 
 #Plotting to our canvas
-#plt.plot(data_chunk)ó
+#plt.plot(data_chunk)รณ
 
 #Showing what we plotted
 #plt.show()
